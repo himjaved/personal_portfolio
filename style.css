@@ -61,24 +61,26 @@ html {
 }
 
 .person-name {
-  font-size: 2rem;
+  font-size: 3rem;
   color: #fff;
   background-color: #e41c6f;
   margin: 5rem 0;
   padding: 0.5rem 3rem;
   letter-spacing: 0.3rem;
   transform: skew(-10deg);
+  border: 1px solid #aaa;
 }
 
 .section-1-btn {
   font-size: 1.7rem;
-  font-weight: 700;
-  color: #333;
-  background-color: #fff;
-  border: 0.3rem solid #333;
+  font-weight: 500;
+  color: #fff;
+  background-color: #e41c6f;
+  border: 1px solid #aaa;
   padding: 0.5rem 1rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
+  transform: skew(-10deg);
 }
 /*End of Section-1 */
 /*Navbar */
